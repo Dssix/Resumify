@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumify - AI Resume Coach</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="loading-overlay" class="hidden">
+        <div class="loader"></div>
+        <p>Processing...</p>
+    </div>
+    <header>
+        <h1>Resumify - Your Personal AI Resume Coach</h1>
+    </header>
+    <main>
+        <section id="upload-section">
+            <h2>Upload Your Resume (PDF)</h2>
+            <form id="upload-form">
+                <input type="file" id="resume-file" accept=".pdf" required>
+                <button type="submit" id="upload-button">Upload and Start</button>
+            </form>
+        </section>
+
+        <section id="interview-section" class="hidden">
+            <h2>Interview Questions</h2>
+            <div id="question-container">
+                <!-- Questions will be dynamically inserted here by script.js -->
+            </div>
+            <textarea id="answer-input" placeholder="Type your answer here..."></textarea>
+            <button id="next-question">Next Question</button>
+            <button id="submit-answers" class="hidden">Submit Answers</button>
+        </section>
+
+        <section id="feedback-section" class="hidden">
+            <h2>Review</h2>
+            <div id="feedback-content">
+                <!-- Report will be displayed here -->
+            </div>
+            <button id="start-over-button">Start Over</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Resumify</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

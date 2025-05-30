@@ -1,0 +1,18 @@
+# Core RAG & embeddings
+openai
+sentence-transformers
+chromadb
+
+# Config & environment
+python-dotenv
+
+# Document loading
+PyMuPDF            # for PDF parsing (imported as fitz)
+python-docx        # for .docx support
+
+# Keyword search (optional)
+whoosh
+
+# Web framework
+Flask
+Werkzeug

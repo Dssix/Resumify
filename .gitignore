@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.venv/
+uploads/
+reports/
+vector_index/
+User/
+data/user.txt
+backend/__pycache__/
+backend/data_processing/__pycache__/
+backend/RAG/__pycache__/

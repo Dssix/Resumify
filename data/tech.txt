@@ -1,0 +1,42 @@
+What are the core features that your application provides to users?
+How did you manage the state of tasks (like pending, completed, deleted)?
+How did you handle form inputs for creating and updating tasks?
+Did you use any libraries for UI components or styling (e.g., Bootstrap, Tailwind CSS)?
+How does your application handle task persistence after a page reload?
+If you used APIs, did you create your own backend API or use a third-party one?
+Which dataset did you use for training your facial expression model?
+What type of neural network architecture did you use for emotion detection?
+How did you preprocess the images before feeding them into the model?
+How did you handle cases where a face is not clearly visible or multiple faces are present in an image?
+Did you apply any data augmentation techniques to improve the model's generalization?
+How would you extend your model to detect micro-expressions (very subtle emotions)?
+What datasets did you use to train your denoising model?
+What deep learning model architecture did you use for denoising images?
+How does a convolutional neural network (CNN) help in removing noise from images?
+What loss function did you use to train your denoising model?
+What kind of data was available for the Vrinda Store analysis?
+What were the main goals of your data analysis project?
+How did you handle missing or inconsistent data during your analysis?
+Can you explain how you identified trends or patterns in the store sales data?
+What metrics or KPIs did you define to evaluate the store’s performance?
+Did you apply any forecasting or predictive analysis techniques for future sales?
+What are the main differences between C and C++?
+How does PHP handle form data submitted through HTML?
+What are some key features introduced in modern JavaScript (ES6 and later)?
+What is the role of a virtual function in C++?
+Explain the concept of closures in JavaScript with an example.
+What are sessions and cookies in PHP, and how are they different?
+What is the difference between '==‘ and ‘===‘ in JavaScript?
+Can you explain Object-Oriented Programming concepts in C++?
+How would you embed JavaScript code inside an HTML page?
+If your website built with HTML, CSS, and JavaScript loads slowly, how would you optimize it?
+What is the difference between a VLOOKUP and INDEX-MATCH in Excel?
+What is the difference between descriptive and inferential statistics?
+What are primary keys and foreign keys in SQL?
+How would you handle missing data in a statistical dataset?
+How can you automate repetitive tasks in Excel? Explain with an example.
+Explain the concept of p-value in hypothesis testing.
+How do you interpret correlation vs. causation in statistics?
+What is a pivot table in Excel, and when would you use it?
+If you had sales data in Excel for multiple years, how would you visualize the year-on-year growth?
+How would you check whether a dataset follows a normal distribution?
